@@ -9,7 +9,7 @@ person:
   otlp-tracing-sampling-probability: 1.0
   
   cud:
-    name: PersonCUDAPIs
+    name: person-cud-apis
     port: 8091
     security-user-name: user_person_prod
     security-user-password: prod1234
